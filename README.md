@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My capstone project an all encompassing Ai proctoring and test platform**
 
-- 🌱 I’m currently pursuing **My bachelor's degree in Artificial Intelligence**
+- 🌱 I’m currently pursuing **My Master's degree in Artificial Intelligence at Northwestern University**
 
 - 👯 I’m looking to collaborate on **A idea I had about combining HMM and generative diffusion networks**
 
