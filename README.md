@@ -1,5 +1,6 @@
 <h1 align="center">Aryaan Peshoton</h1>
 <p align="center">AI engineer, finishing an MS in AI at Northwestern</p>
+<p align="center"><strong><a href="https://www.aryaanpeshoton.com">www.aryaanpeshoton.com</a></strong>: for the complete portfolio, with case studies and live demos of most of what's below.</p>
 
 I'm currently an AI intern at Mphasis.AI in New York, building a knowledge
 graph over two mortgage-finance standards and the agents that answer
